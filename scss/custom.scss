@@ -1,9 +1,6 @@
 @import './variables';
 //customize colors
-$theme-colors: (
-  'primary': #fda403,
-  'secondary': #e8751a
-);
+$theme-colors: ('primary': #e74c3c, 'secondary': #e8751a);
 //import bootstrap
 @import '../bootstrap/scss/bootstrap.scss';
 
